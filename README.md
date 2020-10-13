@@ -6,7 +6,7 @@ Programming language and package management tools
 
 |Language|Package manager|Repository|
 |---|---|---|
-|c/c++| [conan](https://conan.io) | https://conan.io/center/ |
+|c/c++| [conan](https://conan.io) | https://conan.io/center |
 |java| [maven](http://maven.apache.org) | https://mvnrepository.com |
 |python| [pip](https://pypi.org/project/pip/) | https://pypi.org |
 |javascript| [npm](https://www.npmjs.com/get-npm) | https://www.npmjs.com |
