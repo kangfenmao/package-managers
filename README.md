@@ -9,10 +9,10 @@ Programming language and package management tools
 |c/c++|||
 |java|||
 |python|||
-|javascript|||
+|javascript| npm | https://www.npmjs.com |
 |ruby|||
 |c#|||
 |go|||
-|swift|||
+|swift| cocoapods | https://cocoapods.org |
 |rust|||
-|php|||
+|php|[composer](https://getcomposer.org)|https://packagist.org|
