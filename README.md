@@ -4,15 +4,19 @@ Programming language and package management tools
 
 ## Language Package Managers
 
-|Language|Package manager|Repository|
-|---|---|---|
-|c/c++| [conan](https://conan.io) | https://conan.io/center |
-|java| [maven](http://maven.apache.org) | https://mvnrepository.com |
-|python| [pip](https://pypi.org/project/pip/) | https://pypi.org |
-|javascript| [npm](https://www.npmjs.com/get-npm) | https://www.npmjs.com |
-|ruby| [gem](https://rubygems.org/pages/download) | https://rubygems.org |
-|c#| [nuget](https://www.nuget.org/downloads) | https://www.nuget.org |
-|go|[goget](https://golang.org/doc/)| https://golang.org/pkg |
-|swift| [cocoapods](https://cocoapods.org) | https://cocoapods.org |
-|rust| [cargo](https://doc.rust-lang.org/cargo/getting-started/installation.html) | https://crates.io |
-|php|[composer](https://getcomposer.org)| https://packagist.org |
+| Language    | Package Manager | Repository                                      | Download                                       |
+| ----------- | --------------- | ----------------------------------------------- | ---------------------------------------------- |
+| C/C++       | Conan           | [https://conan.io](https://conan.io)             | [Download](https://conan.io/downloads.html)     |
+| Java        | Maven           | [https://mvnrepository.com](https://mvnrepository.com) | [Download](https://maven.apache.org/download.cgi) |
+| Python      | pip             | [https://pypi.org](https://pypi.org)             | [Download](https://pip.pypa.io/en/stable/installing/) |
+| JavaScript  | npm             | [https://www.npmjs.com](https://www.npmjs.com)   | [Download](https://nodejs.org/en/download/)     |
+| Ruby        | RubyGems        | [https://rubygems.org](https://rubygems.org)     | [Download](https://rubygems.org/pages/download)  |
+| C#          | NuGet           | [https://www.nuget.org](https://www.nuget.org)   | [Download](https://www.nuget.org/downloads)     |
+| Go          | go get          | [https://pkg.go.dev](https://pkg.go.dev)         | [Download](https://golang.org/dl/)              |
+| Swift       | Swift Package Manager | [https://swift.org/package-manager](https://swift.org/package-manager) | [Download](https://swift.org/download/)        |
+| Swift       | CocoaPods       | [https://cocoapods.org](https://cocoapods.org)   | [Download](https://cocoapods.org/)              |
+| Rust        | Cargo           | [https://crates.io](https://crates.io)           | [Download](https://www.rust-lang.org/tools/install) |
+| PHP         | Composer        | [https://packagist.org](https://packagist.org)   | [Download](https://getcomposer.org/download/)   |
+| Kotlin      | Gradle          | [https://gradle.org](https://gradle.org)         | [Download](https://gradle.org/install/)         |
+| Scala       | sbt             | [https://www.scala-sbt.org](https://www.scala-sbt.org) | [Download](https://www.scala-sbt.org/download.html) |
+| Lua         | LuaRocks        | [https://luarocks.org](https://luarocks.org)     | [Download](https://luarocks.org/#quick-start)    |
